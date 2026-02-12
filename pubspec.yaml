@@ -13,8 +13,8 @@ dependencies:
     sdk: flutter
   logging: ^1.2.0
   shared_preferences: ^2.2.2
-  google_sign_in: ^7.1.0
-  google_sign_in_web: ^1.0.0
+  google_sign_in: any
+  google_sign_in_web: any
   flutter_ios_web_touch_override:
     git:
       url: https://github.com/duncanhawthorne/flutter_ios_web_touch_override.git
